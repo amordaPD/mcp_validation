@@ -1,0 +1,12 @@
+
+
+mc9
+
+B0->SetScanField(0);B0->Scan("B0_etap_pi0_nPXDHits:B0_etap_pi1_nPXDHits:B0_etap_pi0_nSVDHits:B0_etap_pi1_nSVDHits:B0_mbc:B0_deltae:B0_etap_M:B0_K_S0_M:B0_nROETracks:B0_nROEECLClusters:B0_nGoodROEClusters:B0_nROEKLMClusters:B0_VtxPvalue:B0_TagVPvalue:B0_TruthZ-B0_Z:B0_TruthTagVz-B0_TagVz:B0_etap_eta_M:B0_etap_pi0_TrPval:B0_etap_pi1_TrPval:B0_K_S0_VtxPvalue:B0_M:B0_DeltaT-B0_TruthDeltaT:B0_DeltaTErr","B0_isSignal"); > mc9_1110048100.txt
+
+mc8
+
+B0->SetScanField(0);B0->Scan("B0_eta'_pi0_nPXDHits:B0_eta'_pi1_nPXDHits:B0_eta'_pi0_nSVDHits:B0_eta'_pi1_nSVDHits:B0_mbc:B0_deltae:B0_eta'_M:B0_K_S0_M:B0_nROETracks:B0_nROEECLClusters:B0_nGoodROEClusters:B0_nROEKLMClusters:B0_VtxPvalue:B0_TagVPvalue:B0_TruthZ-B0_Z:B0_TruthTagVz-B0_TagVz:B0_eta'_eta_M:B0_eta'_pi0_TrPval:B0_eta'_pi1_TrPval:B0_K_S0_VtxPvalue:B0_M:B0_DeltaT-B0_TruthDeltaT","B0__isSignal"); > mc8_1110048100.txt
+
+
+B0_VtxPValue:B0_TagVPvalue:B0_TruthZ-B0_Z:B0_TruthTagVz-B0_TagVz
